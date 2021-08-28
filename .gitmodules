@@ -1,0 +1,3 @@
+[submodule "LiveSplit.WrPaceReporter"]
+	path = LiveSplit.WrPaceReporter
+	url = https://github.com/DThaiPome/LiveSplit.WrPaceReporter.git
